@@ -1,0 +1,73 @@
+{
+  "map_name": "Map05",
+  "zones_config": [],
+  "bombs": [
+    {
+      "x": 485.0,
+      "y": -505.0,
+      "theta": 0.0
+    },
+    {
+      "x": -295.0,
+      "y": -568.0,
+      "theta": 0.0
+    },
+    {
+      "x": -116.0,
+      "y": 457.0,
+      "theta": 0.0
+    },
+    {
+      "x": -179.0,
+      "y": -425.0,
+      "theta": 0.0
+    },
+    {
+      "x": 51.0,
+      "y": -118.0,
+      "theta": 0.0
+    },
+    {
+      "x": 550.0,
+      "y": 549.0,
+      "theta": 0.0
+    },
+    {
+      "x": 91.0,
+      "y": -550.0,
+      "theta": 0.0
+    },
+    {
+      "x": -325.0,
+      "y": -95.0,
+      "theta": 0.0
+    },
+    {
+      "x": -461.0,
+      "y": 197.0,
+      "theta": 0.0
+    },
+    {
+      "x": -15.0,
+      "y": 27.0,
+      "theta": 0.0
+    }
+  ],
+  "training_layout": {
+    "map_name": "Map05",
+    "seed": 42,
+    "count": 10,
+    "categories": [
+      "corner",
+      "boundary",
+      "wall_angle",
+      "wall",
+      "open",
+      "corner",
+      "boundary",
+      "wall_angle",
+      "wall",
+      "open"
+    ]
+  }
+}

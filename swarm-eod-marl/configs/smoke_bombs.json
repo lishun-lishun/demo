@@ -1,0 +1,5 @@
+{
+  "map_name": "Map01",
+  "zones_config": [],
+  "bombs": [{"x": -390, "y": 100, "theta": 0}]
+}

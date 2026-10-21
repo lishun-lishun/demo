@@ -1,0 +1,19 @@
+seed: 20261021
+maps: [Map01, Map02, Map03, Map04, Map05]
+map_data_dir: ../swarm-eod-main/map_data
+num_drones: 10
+bombs_per_episode: 10
+bomb_motion: static
+spawn_clearance: 24
+bomb_min_spacing: 58
+episodes: 1000
+checkpoint_every: 5
+gamma: 0.997
+gae_lambda: 0.95
+clip_ratio: 0.2
+actor_lr: 0.0003
+critic_lr: 0.0003
+ppo_epochs: 5
+entropy_coef: 0.01
+value_coef: 0.5
+hidden_dim: 128

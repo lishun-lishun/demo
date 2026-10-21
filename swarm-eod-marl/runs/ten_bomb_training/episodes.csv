@@ -1,0 +1,4 @@
+episode,map_name,steps,max_steps,bombs,disposed,official_score,all_bomb_success,half_time_success,spawn_categories,actor_loss,critic_loss,entropy,approx_kl,parameter_delta_l2
+0,Map01,2000,2000,10,1,19.840000000000003,False,False,corner/boundary/wall_angle/wall/open/corner/boundary/wall_angle/wall/open,-0.0014799591765156024,0.79935097529272,3.801911553125533,0.0427767186067141,4.138614177703857
+1,Map02,5000,5000,10,1,8.32,False,False,corner/boundary/wall_angle/wall/open/corner/boundary/wall_angle/wall/open,0.00022946525584597877,0.40110027027452827,3.853921829515202,0.024713295655112617,5.952401638031006
+1,Map02,5000,5000,10,0,2.0,False,False,corner/boundary/wall_angle/wall/open/corner/boundary/wall_angle/wall/open,0.007423603343688379,0.19472189145311,3.8904747546858087,0.024931631951922738,5.715537071228027

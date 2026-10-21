@@ -1,0 +1,2 @@
+episode,map_name,steps,max_steps,bombs,disposed,official_score,all_bomb_success,half_time_success,actor_loss,critic_loss,entropy,approx_kl,parameter_delta_l2
+0,Map01,2000,2000,1,0,13.719999999999999,False,False,0.006695104906305907,0.22112773007432382,5.71649600740463,0.022019830246138135,4.344210147857666
